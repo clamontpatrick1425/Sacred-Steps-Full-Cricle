@@ -1,0 +1,6 @@
+{
+  "name": "Sacred Steps: Full Circle Relational Healing",
+  "description": "Full Circle Relational Tracker and spiritual foundation builder for Sacred Steps to Redemption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
